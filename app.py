@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # --- AYARLAR ---
 # Buraya Google AI Studio'dan aldığın API Key'i yapıştır
-GOOGLE_API_KEY = "AIzaSyAZy3v5b7z8RLIEYZPJdreYeJWVOeJKEgo" 
+GOOGLE_API_KEY = "Buraya google ai studiodan aldığınız api keyinizi yazınız" 
 
 # Sayfa Ayarları
 st.set_page_config(page_title="AI Video Senaristi", page_icon="🎙️", layout="wide")
@@ -171,4 +171,5 @@ with st.expander("📚 CapCut ile Video Nasıl Yapılır? (Adım Adım Rehber)")
     """)
 
 # Footer
+
 st.caption("Powered by Gemini 2.0 Flash | Geliştirici: Mühendis Baran")
