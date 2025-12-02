@@ -66,4 +66,5 @@ Kopyala: Oluşan metni kopyalayıp ElevenLabs veya CapCut'ta seslendirin.
 
 👨‍💻 Geliştirici
 
-Mühendis Baran tarafından geliştirilmiştir.
+
+Baran Polat tarafından geliştirilmiştir.
