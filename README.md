@@ -14,7 +14,7 @@ Bu proje, Python ve Google Gemini API kullanılarak geliştirilmiş, içerik ür
 
 🏷️ SEO Paketi: Viral olabilecek başlıklar, açıklama metni ve hashtag'leri otomatik üretir.
 
-🎛️ Ton Ayarı: Ciddi, Enerjik, Gizemli veya Samimi tonlarda yazabilir.
+🎛️ Ton Ayarı: Ciddi, Enerjik, Gizemli veya Samimi tonlarda yazabiliyor.
 
 🛠️ Kurulum
 
@@ -68,3 +68,4 @@ Kopyala: Oluşan metni kopyalayıp ElevenLabs veya CapCut'ta seslendirin.
 
 
 Baran Polat tarafından geliştirilmiştir.
+
